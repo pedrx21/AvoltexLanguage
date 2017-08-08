@@ -36,6 +36,10 @@ interface LanguageInterface {
 		"German" => [
 			"avoltex.command.npc.success" => "Erfolgreich das Factions Entity gespawnt!",
 			"avoltex.command.npc.usage" => "Ungültiges Entity. Benutze: /npc [factions:kitpvp:prisons]"
+		],
+		"Portuguese" => [
+			"avoltex.command.npc.success" => "NPC Factions foi gerado com sucesso!",
+			"avoltex.command.npc.usage" => "NPC inválido, utilize: /npc [factions:kitpvp:prisons]"
 		]
 	];
 }
