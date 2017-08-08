@@ -32,7 +32,7 @@ interface LanguageInterface {
 		"French" => [
 			"avoltex.command.npc.success" => "",
 			"avoltex.command.npc.usage" => ""
-		]
+		],
 		"German" => [
 			"avoltex.command.npc.success" => "Erfolgreich das Factions Entity gespawnt!",
 			"avoltex.command.npc.usage" => "Ungültiges Entity. Benutze: /npc [factions:kitpvp:prisons]"
