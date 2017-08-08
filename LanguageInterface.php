@@ -17,14 +17,21 @@ namespace avoltex\interfaces;
 
 interface LanguageInterface {
 
+	//You can add more languages too, just follow the format!
 	const LANGUAGES = [
 		"English" => [
 			"avoltex.command.npc.success" => "Successfully spawned the factions entity!",
-			"avoltex.command.npc.usage" => "Invalid entity. Usage: /npc [factions:kitpvp:prisons]",
+			"avoltex.command.npc.usage" => "Invalid entity. Usage: /npc [factions:kitpvp:prisons]"
 		],
 
 		"Spanish" => [
-			
+			"avoltex.command.npc.success" => "",
+			"avoltex.command.npc.usage" => ""
+		],
+		
+		"French" => [
+			"avoltex.command.npc.success" => "",
+			"avoltex.command.npc.usage" => ""
 		]
 	];
 }
