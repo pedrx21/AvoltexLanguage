@@ -6,4 +6,4 @@ __BASIC FORMAT:
 "English" = [
   "avoltex.example" => "Example!",
   "avoltex.example.1" => "Example 1!"
-];
+];__
