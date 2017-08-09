@@ -1,0 +1,33 @@
+{
+  "English": {
+    "avoltex.command.npc.success": "Successfully spawned the factions entity!",
+    "avoltex.command.npc.usage": "Invalid entity. Usage: /npc [factions:kitpvp:prisons]",
+    "avoltex.command.setgroup.success": "Successfully set {%1} to the group {%2}!",
+    "avoltex.command.setgroup.usage": "Usage: /setgroup [player] [group]",
+    "avoltex.command.setgroup.invalidPlayer": "Invalid player!",
+    "avoltex.command.setgroup.invalidGroup": "Invalid group!"
+  },
+
+  "Spanish": {
+    "avoltex.command.npc.success": "La entidad de facciones ha sido creada/invocada!",
+    "avoltex.command.npc.usage": "Entidad invalida. Uso: /npc [factions:kitpvp:prisons]"
+  },
+
+  "French": {
+
+  },
+
+  "German": {
+    "avoltex.command.npc.success": "Erfolgreich das Factions Entity gespawnt!",
+    "avoltex.command.npc.usage": "Ungültiges Entity. Benutze: /npc [factions:kitpvp:prisons]"
+  },
+  
+  "Portuguese": {
+    "avoltex.command.npc.success": "A entidade Factions foi gerada com sucesso!",
+    "avoltex.command.npc.usage": "Entidade inválida Utilize: /npc [factions:kitpvp:prisons]",
+    "avoltex.command.setgroup.success": "Foi setado com sucesso {%1} para o grupo {%2}!",
+    "avoltex.command.setgroup.usage": "Utilize: /setgroup [jogador] [grupo]",
+    "avoltex.command.setgroup.invalidPlayer": "Jogador inválido!",
+    "avoltex.command.setgroup.invalidGroup": "Grupo inválido!"
+  }
+}
